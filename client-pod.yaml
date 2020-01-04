@@ -9,6 +9,6 @@ spec:
         - name: client
           image: mgarcia11/multi-client
           ports:
-            - containerPort: 3000
+            - containerPort: 9999
 
         
